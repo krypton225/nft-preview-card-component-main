@@ -38,7 +38,7 @@ img {
 
 .container {
   width: 330px;
-  height: 540px;
+  height: 570px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -50,7 +50,7 @@ img {
 
 .container__image {
   width: 90%;
-  height: 290px;
+  height: 310px;
   position: relative;
   text-align: center;
   border-radius: 10px;
